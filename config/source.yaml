@@ -34,6 +34,14 @@
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
+    
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
