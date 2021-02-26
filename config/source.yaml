@@ -36,6 +36,10 @@
 - type: clash
   options:
     url: https://proxypoolsstest.herokuapp.com/clash/proxies?speed=20
+    
+- type: clash
+  options:
+    url: https://pool-840979.asia1.kinto.io/clash/proxies?speed=20
 
 # 某个网站抓取
 - type: web-freessrxyz
